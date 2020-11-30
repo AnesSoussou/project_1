@@ -1,0 +1,15 @@
+How does the web works?
+There are two parts: client and server, when we  type a web page through a browser, 
+the latter sends an HTTP request to the server to demand for it to send a copy of the website to the client,
+ and so all the data are exchanged through the internet connection using TCP / IP protocols.
+
+
+What do you need to be a web developer?
+To be a web developer I need to have an idea about the functionality of  web servers ,also I must know how to code using HTML and CSS,
+knowing Frontend web programing languages like Javascript and Backend web programing languages such as PHP 
+and experience with database systems such as SQL.
+
+
+
+What’s the role of a web developer?
+A web developer is responible for coding,designing and modifying websites.
