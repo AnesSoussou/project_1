@@ -1,0 +1,48 @@
+
+.p1{ font-family:  Arial, Helvetica, sans-serif;}
+.p2{font-family:  "Papyrus", "Copperplate", Fantasy;
+    background-color: rgb(230, 255, 140);}
+.double {border-style: double; border-width: 10px 10px;}
+#borderrr {border-style: solid;border-color: hsl(209, 100%, 82%);border-width: 10px 10px;text-align: center;
+padding:20px;}
+.right {
+    position: absolute;
+    display: inline-block;
+    left: 0px;
+    width: 300px;
+    padding: 10px;
+   
+
+  }
+  <style>
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(247, 62, 86);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .div2 {
+    width: 700px;
+    height: 200px;  
+    text-align: center;
+    padding: 20px;
+    border: 10px solid rgb(29, 28, 28);
+    box-sizing: border-box;
+  }
